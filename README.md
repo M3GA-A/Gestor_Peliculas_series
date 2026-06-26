@@ -91,3 +91,5 @@ Accesos disponibles:
 - Los datos se almacenan en **data.json**.
 - Si el archivo no existe, la aplicación lo gestiona como una colección vacía.
 - No es necesario configurar una base de datos externa para utilizar el proyecto.
+
+<img width="1512" height="827" alt="gestor-peliculas-series" src="https://github.com/user-attachments/assets/d251241f-1c21-439e-abb5-b4e179f2d7af" />
