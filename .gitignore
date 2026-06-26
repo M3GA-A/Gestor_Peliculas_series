@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entorno virtual
+venv/
+
+# Archivos del sistema (macOS)
+.DS_Store
+
+# VS Code
+.vscode/
